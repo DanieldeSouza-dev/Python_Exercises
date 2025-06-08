@@ -21,7 +21,7 @@ while True:
     keys = dict_products.keys()
     validation = str(input('Customer [C]\nStaff [S]\nExit [E]\n: ')).lower()
     if validation == 'e':
-        print('Thanks for using Inventory 1.0. See you nect time!')
+        print('Thanks for using Inventory 1.0. See you next time!')
         break  # end the program
     elif validation == 'c':
         while True:
