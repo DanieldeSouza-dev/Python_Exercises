@@ -44,7 +44,8 @@ It serves as a personal archive of learning exercises in Python and aims to supp
 
 1. Make sure **Python 3** is installed on your machine
 2. Go to the folder of the exercise you want and run the main script
-3. Enjoy!
+    - If you have any doubts about running the program, open the How_To.md
+4. Enjoy!
 
 ## ✍️ Author
 - Developed by Daniel de Souza
